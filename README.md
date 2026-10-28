@@ -1,6 +1,6 @@
 # Brain tumour segmentation
 
-Segments three tumour sub-regions — necrotic core, edema and enhancing tumour — from multimodal brain MRI. Three architectures are trained and compared, ending with an Attention U-Net whose attention gates are visualised to see what the network looks at.
+Segments three tumour sub-regions (necrotic core, edema and enhancing tumour) from multimodal brain MRI. Three architectures are trained and compared, ending with an Attention U-Net whose attention gates are visualised to see what the network looks at.
 
 ![Predicted sub-regions: necrotic core, edema, enhancing tumour](assets/predicted-regions.png)
 
